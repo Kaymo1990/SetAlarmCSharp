@@ -1,0 +1,11 @@
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\obj\Debug\netcoreapp2.2\SetAlarm.csprojAssemblyReference.cache
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\obj\Debug\netcoreapp2.2\SetAlarm.csproj.CoreCompileInputs.cache
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\obj\Debug\netcoreapp2.2\SetAlarm.AssemblyInfoInputs.cache
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\obj\Debug\netcoreapp2.2\SetAlarm.AssemblyInfo.cs
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\bin\Debug\netcoreapp2.2\SetAlarm.deps.json
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\bin\Debug\netcoreapp2.2\SetAlarm.runtimeconfig.json
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\bin\Debug\netcoreapp2.2\SetAlarm.runtimeconfig.dev.json
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\bin\Debug\netcoreapp2.2\SetAlarm.dll
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\bin\Debug\netcoreapp2.2\SetAlarm.pdb
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\obj\Debug\netcoreapp2.2\SetAlarm.dll
+C:\Users\Kay\source\repos\SetAlarm\SetAlarm\obj\Debug\netcoreapp2.2\SetAlarm.pdb
